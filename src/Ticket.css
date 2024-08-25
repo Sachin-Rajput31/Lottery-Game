@@ -1,0 +1,24 @@
+.Ticket{
+    border:4px solid rgb(220, 76, 227) ;
+    border-radius: 14px;
+    width: 300px;
+    margin: auto;
+}
+.Ticket:hover{
+    border-radius: 20px;
+    border:5px solid red;
+}
+.heding{
+    font-style: italic;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif rgb(96, 247, 96);
+    }
+  .buttonex{
+    background-color: rgba(188, 255, 255, 0.777);
+    
+  }  
+
+.buttonex:hover{
+background-color: azure;
+
+}
